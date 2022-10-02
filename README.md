@@ -32,7 +32,7 @@
 
 ## UNTUK PENGGUNA REPLIT
 
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/sadteams/bot-md)
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/epanshop21/Rul1)
 ```cmd
 Buka Console
 ------------
